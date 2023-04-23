@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @ismailaydemirx
-- 👀 I’m interested in Data scince,
-- 🌱 I’m currently learning C# and Python
-- 📫 How to reach me: ismailaydemiryt@gmail.com
+Merhaba 👋, ben İsmail 🌙
+Kod yazmak bir sanattır...
+gncyyldz
 
-<!---
-ismailaydemirx/ismailaydemirx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📝 BK benimkocum.net
+
+Connect with me:
+<a href="https://linkedin.com/in/gençay-yıldız-a1453987/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gençay-yıldız-a1453987/" height="30" width="40" style="max-width: 100%;"></a>
+
+Languages and Tools:
+angular aws azure bootstrap csharp css3 docker dotnet grafana html5 javascript linux mongodb mssql nginx nodejs oracle postgresql pug rabbitMQ redis selenium typescript
+
