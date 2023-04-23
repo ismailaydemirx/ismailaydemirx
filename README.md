@@ -16,3 +16,5 @@ Languages and Tools:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailaydemirx&show_icons=true&theme=merko)
 
+
+api/top-langs?ismailaydemirx=anuraghazra
