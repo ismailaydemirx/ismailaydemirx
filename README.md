@@ -2,7 +2,7 @@
 <hr>
 <h3>Yaşam boyu öğrenme...</h3>
 
-📝 BK benimkocum.net
+📝 Founder Of BK www.benimkocum.net
 
 Connect with me:
 
@@ -10,6 +10,7 @@ Connect with me:
 
 
 Languages and Tools:
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;">
