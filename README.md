@@ -1,5 +1,6 @@
-Merhaba 👋, ben İsmail 🌙
-Yaşam boyu öğrenme...
+<h1>Merhaba 👋, ben İsmail 🌙</h1>
+<hr>
+<h3>Yaşam boyu öğrenme...</h3>
 
 📝 BK benimkocum.net
 
