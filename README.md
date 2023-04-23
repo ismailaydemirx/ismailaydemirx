@@ -1,6 +1,5 @@
 Merhaba 👋, ben İsmail 🌙
-Kod yazmak bir sanattır...
-gncyyldz
+Yaşam boyu öğrenme...
 
 📝 BK benimkocum.net
 
