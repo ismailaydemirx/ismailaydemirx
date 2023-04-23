@@ -16,7 +16,7 @@ Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40" style="max-width: 100%;"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40" style="max-width: 100%;">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailaydemirx)](https://github.com/ismailaydemirx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailaydemirx&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailaydemirx&show_icons=true&theme=merko)
