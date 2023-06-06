@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I am Ismail AYDEMIR</h1>
 <hr>
-<h3 align="center">Yaşam boyu öğrenme...</h3>
+<h3 align="center">Lifelong learning...</h3>
 
 📝 Founder Of BK www.benimkocum.net
 
