@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben İsmail 🌙demir</h1>
+<h1 align="center">Hi 👋,I am Ismail AYDEMIR</h1>
 <hr>
 <h3 align="center">Yaşam boyu öğrenme...</h3>
 
@@ -7,7 +7,9 @@
 
 Connect with me:
 
-<a href="[https://linkedin.com/in/gençay-yıldız-a1453987](https://www.linkedin.com/in/ismailaydemir0/)/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailaydemirx/" height="30" width="40" style="max-width: 100%;"></a><a href="https://instagram.com/ismailaydemirx" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailaydemirx" height="30" width="40" style="max-width: 100%;"></a>
+<a href="(https://www.linkedin.com/in/ismailaydemir0/)/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailaydemirx/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/ismailaydemirx" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismailaydemirx" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://discordapp.com/users/277095092970586112" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismailaydemirx" height="30" width="40" style="max-width: 100%;"></a>
 
 
 Languages and Tools:
