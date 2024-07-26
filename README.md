@@ -2,8 +2,8 @@
 <hr>
 <h3 align="center">Lifelong learning...</h3>
 
-  <p> <a href="https://ismailaydemirx.github.io">✒️ Portfolio</a></p>
-  <p> <a href="https://benimkocum.net">📝 Founder Of BK</a></p>
+  <p> <a href="https://ismailaydemirx.github.io" target="_blank">✒️ Portfolio</a></p>
+  <p> <a href="https://benimkocum.net" target="_blank">📝 Founder Of BK</a></p>
   
 <h3>Connect with me:</h3>
 
