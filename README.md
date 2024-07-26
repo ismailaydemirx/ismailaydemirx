@@ -2,13 +2,13 @@
 <hr>
 <h3 align="center">Lifelong learning...</h3>
 
-  <p>✒️ Portfolio: <a href="ismailaydemirx.github.io">ismailaydemirx.github.io</a></p>
-  <p>📝 Founder Of <a href="www.benimkocum.net">benimkocum.net</a></p>
+  <p> <a href="https://ismailaydemirx.github.io">✒️ Portfolio</a></p>
+  <p> <a href="https://benimkocum.net">📝 Founder Of BK</a></p>
   
 <h3>Connect with me:</h3>
 
 
-<a href="(https://www.linkedin.com/in/ismailaydemir0/)/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailaydemirx/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/ismailaydemir0/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismailaydemirx/" height="30" width="40" style="max-width: 100%;"></a>
 <a href="https://discordapp.com/users/277095092970586112" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismailaydemirx" height="30" width="40" style="max-width: 100%;"></a>
 <br>
 <br>
