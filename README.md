@@ -1,5 +1,10 @@
 ### Hi 👋,I am Ismail Aydemir
 <hr>
+<p>I enjoy developing modern, user-focused applications using C# .NET, Entity Framework Core, Angular, and SQL.</p>
+
+<p>I'm passionate about clean code, collaborative development, and continuous learning. I actively share what I learn through <a href="https://medium.com/@ismailaydemirx" target="_blank">blog posts</a> and on <a href="https://www.linkedin.com/in/ismailaydemir0" target="_blank">LinkedIn</a>.</p>
+
+<p>As a polyglot, I'm always curious about languages — both human and programming.</p>
 
 <h3>Lifelong learning...</h3>
 
@@ -7,12 +12,9 @@
   <p> <a href="https://benimkocum.net" target="_blank">📝 Founder Of BK</a></p>
 
 <br>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
 <br>
-
-
+<br>
+<br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@ismailaydemir0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismailAydemir0)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ismailaydemirx) [![Twitter](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/ismailaydemirx) 
 
